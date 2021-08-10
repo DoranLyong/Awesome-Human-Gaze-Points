@@ -3,4 +3,5 @@ matplotlib
 tqdm
 omegaconf 
 scikit-image
+scipy
 
